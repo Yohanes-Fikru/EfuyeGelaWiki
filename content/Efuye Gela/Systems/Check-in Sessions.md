@@ -26,7 +26,7 @@ Before check-in sessions were started, we'd meet every Saturday to attend a work
 As it is now, Tuesdays and Saturdays are open for anyone and everyone to book a session and share their view points/ experiences to the team.
 
 ## Team Bonding
-Forming and maintaining a high performing teams that are ever growing in new horizons needs a platform where the members of that team get to know one another. We need to know each other beyond titles and responsibilities, beyond tasks and reports, and most importantly, beyond the version we have of one another that is in our heads.
+Forming and maintaining a high performing teams that are ever growing in new horizons needs a platform where the members of that team get to know one another. We need to know each other beyond titles and responsibilities, beyond tasks and reports, and most importantly, beyond the version we have of one another in our heads.
 
 This is one of the places that give us the chance to practice one of our core values to one another. [[Empathy]]
 
