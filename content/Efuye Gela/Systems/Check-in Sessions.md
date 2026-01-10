@@ -4,9 +4,9 @@ publish: "true"
 ---
 You've probably seen us gather around in a meeting room like this once a week. You might have even been in the meeting your self. What actually happens in "Check-in Sessions"?
 
-![[photo_2025-12-20 13.55.13.jpeg]]
+![[photo_2025-12-20 13.55.13 2.jpeg]]
 
-Check-in sessions are one of the core systems that make up Efuye Gela. This is the central space where we take care of our most important pillars, PEOPLE! 
+Check-in sessions are one of the core systems that make up Efuye Gela. This is the central space where we take care of our most important pillars, **PEOPLE**! 
 
 Wether someone is an Executive, Manager, Expert or Intern, attending check-in sessions is imperative to be kept in the loop and collaborate with one another. We reflect on our past and chart our future in the space that the check-in sessions give us.
 
@@ -30,7 +30,7 @@ Forming and maintaining a high performing teams that are ever growing in new hor
 
 This is one of the places that give us the chance to practice one of our core values to one another. [[Empathy]]
 
-![[photo_2025-12-20 13.54.57.jpeg]]
+![[photo_2025-12-20 13.54.57 2.jpeg]]
 
 We can only obtain the capacity to empathize with one another by talking to each other and spending time together, how ever brief that time maybe. 
 
